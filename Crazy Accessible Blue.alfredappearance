@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 20,
+        "colorSelected" : "#FF9200FF",
+        "font" : "System",
+        "color" : "#FEFFFFFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#480069FF"
+      },
+      "backgroundSelected" : "#000000FF",
+      "text" : {
+        "size" : 31,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#000000FF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 6,
+      "iconSize" : 58
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#0000001A",
+      "spacing" : 16,
+      "text" : {
+        "size" : 64,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#FEFFFFFF"
+      },
+      "backgroundSelected" : "#000000FF"
+    },
+    "window" : {
+      "color" : "#0432FFFF",
+      "paddingHorizontal" : 16,
+      "width" : 1024,
+      "borderPadding" : 16,
+      "borderColor" : "#000000FF",
+      "blur" : 0,
+      "roundness" : 9,
+      "paddingVertical" : 16
+    },
+    "credit" : "Tamio",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FF9200FF",
+      "thickness" : 16
+    },
+    "name" : "Crazy Accessible Blue"
+  }
+}
