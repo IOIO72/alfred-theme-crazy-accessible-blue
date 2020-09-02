@@ -12,7 +12,7 @@
         "size" : 16,
         "colorSelected" : "#FFFFFFFF",
         "font" : "System",
-        "color" : "#480069FF"
+        "color" : "#000000FF"
       },
       "backgroundSelected" : "#000000FF",
       "text" : {
