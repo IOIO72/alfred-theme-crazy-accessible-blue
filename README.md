@@ -14,4 +14,4 @@ Accessible and large theme for Alfred
 * [Download](Crazy%20Accessible%20Blue.alfredappearance)
 * Double click on `Crazy Accessible Blue.alfredappearance`
 
-_Alternative URL on Alfred Themes: [Crazy Accessible Blue](https://www.alfredapp.com/extras/theme/7dV23uucQe/)_
+_Alternative URL on Alfred Themes: [Crazy Accessible Blue](https://www.alfredapp.com/extras/theme/E304HI7pFT/)_
